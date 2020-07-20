@@ -5,7 +5,7 @@
 {
 	int x;
 	int y;
-	int z;
+	int k;
 	scanf("%d%d", &x, &y);
 	
 	printf("x=%d,y=%d\n",x,y);
