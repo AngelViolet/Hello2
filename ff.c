@@ -3,6 +3,7 @@
  
  int main()
 {
+	int qq;
 	int x;
 	int y;
 	int k;
