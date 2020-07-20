@@ -6,7 +6,6 @@ int main()
 {
 	char ch;
 	int ret;
-char c;	
 
 	FILE *fp1;
 	
