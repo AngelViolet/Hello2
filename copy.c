@@ -6,7 +6,7 @@ int main()
 {
 	char ch;
 	int ret;
-	
+int a;	
 
 	FILE *fp1;
 	
